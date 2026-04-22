@@ -1,2 +1,2 @@
-let nombre="AbicitaPechocha";
+let nombre="AbicitaSocute";
 console.log(nombre);
